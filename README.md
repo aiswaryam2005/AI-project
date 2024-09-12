@@ -1,1 +1,1 @@
-# AI-project
+# College Website clone
